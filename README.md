@@ -29,7 +29,7 @@ Our application process is designed for those who are ready to build their futur
 
 Build illustrative models to:
 
-- Explore the Mexican real estate market to determine whether location or home size is more important in determining price
+- [Explore the Brazilian real estate market to determine whether location or home size is more important in determining price](./Housing%20in%20Mexico/Housing-in-Brazil.ipynb)
 - Predict apartment prices in Buenos Aires, Argentina
 - Determine air quality in Nairobi, Kenya
 - Assess building damage following the 2018 earthquake in Nepal
