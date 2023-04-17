@@ -31,7 +31,7 @@ Build illustrative models to:
 
 - [Explore the Brazilian real estate market to determine whether location or home size is more important in determining price](./Housing%20in%20Mexico/Housing-in-Brazil.ipynb)
 - [Predict apartment prices in Mexico City, Mexico.](./Housing%20in%20Mexico%20City/Housing-in-Mexico-City.ipynb)
-- Determine air quality in Nairobi, Kenya
+- [Determine air quality in Dar es Salam, Tanzania](./Air%20Quality%20in%20Nairobi/Air-Quality-in-Dar-es-Salaam.ipynb)
 - Assess building damage following the 2018 earthquake in Nepal
 - And more!
 
