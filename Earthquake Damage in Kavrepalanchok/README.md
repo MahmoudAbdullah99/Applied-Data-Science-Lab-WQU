@@ -29,7 +29,7 @@ After preprocessing the data, we split the dataset into training and test sets u
 
 | Model                | Encoding | Training Accuracy | Testing Accuracy |
 |----------------------|----------|-------------------|------------------|
-| Decision Tree        | Ordinal  | 70.2%             | 71.7%            |
+| Decision Tree        | Ordinal  | 73.7%             | 65.5%            |
 | Logistic Regression	| One-Hot  | 65.1%             | 65.3%            |
 
 Based on the results, we can conclude that the logistic regression model using one-hot encoding performed the best, with an accuracy of 0.727.
